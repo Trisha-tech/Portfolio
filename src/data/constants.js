@@ -167,7 +167,7 @@ export const experiences = [
       "ExpressJS"
 
     ],
-    doc: "https://lh4.googleusercontent.com/EUTfjQ3r3NBZQUiYC4YShM3mrbQ-ae0XGV-lEjcfNQgxV4Y7rLtjeeZpq7peRvQCfQMSx0NvQ54VHSWyxQZge7Y",
+    doc: "https://github.com/Trisha-tech/Documents/assets/55338588/08181668-52ad-43a9-be6f-ba72a3ebdc66",
   },
   {
     id: 0,
@@ -185,7 +185,7 @@ export const experiences = [
       "CSS",
       "JavaScript",
     ],
-    doc: "https://lh3.googleusercontent.com/caGI6tVMGOLpc0wz3cYAduK0es0r_1n1qas9Bt6nMclylJhVE4W4Uh7YNMEWJkfyI22Tw5iDMJ2pCXra5HdyJlk",
+    doc: "https://github.com/Trisha-tech/Documents/assets/55338588/764f760f-a0cb-4d8f-bf9b-6503cc7eabe8",
   },
   {
     id: 1,
@@ -256,7 +256,7 @@ export const projects = [
     description:
       "This project is a Physics calculator where the user just needs to enter the values and the project calculates the result using the formula. ",
     image:
-      "https://lh3.googleusercontent.com/nPwGwGPflQYOPizkqT3C15TbyURFXlCoReu09Sfr3PdWPix9b6RQMNm-6QJH1JtXkSrX2tFen2CTJwu34ipr28OirzR1XeDBTzT-uud2j0dZpYxyj_RyhcbJuul0XylSzg=w1280",
+      "https://github.com/Trisha-tech/Documents/assets/55338588/39eb26cd-3225-43a2-878d-2846e6ef4fed",
     tags: [
       "HTML",
       "CSS",
@@ -275,7 +275,7 @@ export const projects = [
     description:
       "Hackathons are a great way to meet new people, but we can choose our right teammates in a rush. No right? We too faced this problem while selecting the teammates. Thus Team Builder was born. A platform where members of hackathons have free will and options to choose from, they could even contact the original idea owner. It is better for both the idea owner and the participant as discussion always result in a better product.      ",
     image:
-      "https://lh6.googleusercontent.com/qDbkWaodWxhl9XM3NKkIMusOObzAOVfZ0SbanU7MnSWxk0Bo50tQrw257WNU0Xs-Ru2X1E3BVCqptt0TW9arjpYWeDbb9zYocdP6Dqdx5yVRF0NNr5BwsgUZSyOQ5CPH=w1280",
+      "https://github.com/Trisha-tech/Documents/assets/55338588/f4b8b1a6-5d8a-4e84-b430-ec056189c574",
     tags: ["React Js", "MongoDb", "Node Js", "Express Js", "Redux"],
     category: "open source",
     github: "https://github.com/web-contribution-DWOC/Team-Builder/issues/7",
@@ -309,7 +309,7 @@ export const projects = [
     date: "Feb 2023",
     description: "",
     image:
-      "https://lh6.googleusercontent.com/lWYkTv_A9wJVIFgCAR0D5pvh4heFHNEeFYa62rVIBag8qRyJPo0fGwGG-gj4aRaR1wGNX3Nl8ykDi7SSd7iZN4exiVQJO8BN6VriGMfPqImnDR2ujTqf7pODTxg-HJ2JdA=w1280",
+      "https://github.com/Trisha-tech/Documents/assets/55338588/0c26e0a6-e231-4dab-bf6e-09dccc6eb732",
     tags: ["HTML", "CSS", "JavaScript", "NodeJS"],
     category: "open source",
     github: "https://github.com/mrsparkle-70/Emotion-detection-using-JS/issues/22",
@@ -322,7 +322,7 @@ export const projects = [
     date: "Feb 2023",
     description: "Being from tier-2 and tier-3 colleges, you often face the problem of knowledge gap in our college days. But once you begin walking in the path of tech, you discover a place where people are just like you. 😇✨ We are a group of HITK students trying to fill the knowledge gap and help you find your place of discovery by sharing you the opportunities and resources at the right time!⏱️ This project aims to build the official site for the community page so that any student can use the resources shared by us.",
     image:
-      "https://lh5.googleusercontent.com/z6qhTNmxbsZOk-z7_E3JCABKFivGq__BoYLKhBLQjfJoP0WPBZYyGuyUp9ZuqXwBoid7zKv7KG5t8_KdO_2OvNGFbH6OodK2C5LSAy-2O0C6btjCEQpJbvJLzGz16jtnDQ=w1280",
+      "https://github.com/Trisha-tech/Documents/assets/55338588/f23b1516-8949-4eb5-9285-4b2d8c165cd5",
     tags: ["ReactJS", "MongoDB", "NodeJS", "ExpressJS"],
     category: "open source",
     github: "https://github.com/HITK-TECH-Community/Community-Website/issues/759",
@@ -335,7 +335,7 @@ export const projects = [
     description:
       "",
     image:
-      "https://lh3.googleusercontent.com/ECu5pNZMlPBMoIG67E19J3Wcc7OlHa1vfYFzUCSUYuiI_e0_Q-ojB5_Tm0CyEERJjTOo39Nrj-pI9zRU9-I3HJf-16LJrSywmU2CIibiLuJeOpD2TILMGfgxE-k433_SRQ=w1280",
+      "https://github.com/Trisha-tech/Documents/assets/55338588/d6901817-70da-493b-9e80-73c85907e843",
     tags: ["HTML", "JavaScript", "CSS"],
     category: "open source",
     github: "https://github.com/Web-Dev-for-Beginners/HTML-CSS-and-JavaScript-Projects/issues/7",
@@ -348,7 +348,7 @@ export const projects = [
     description:
       "",
     image:
-      "https://lh4.googleusercontent.com/NycV7mVhmUjVXUrH2mhu54RDiG8K-XmvxdEVlgvqC99fQM6PppKBOkXUYA8v_SbgynaEe1ESzpMd2K0QZG_uAyuimWTUP58mTYJzHLKABwD-Qga30QcVqPkYDGuwZmLm6g=w1280",
+      "https://github.com/Trisha-tech/Documents/assets/55338588/1c0a41fe-1b25-4ab0-a96b-65c2bf2f5e2e",
     tags: ["HTML", "CSS", "JavaScript"],
     category: "open source",
     github: "https://github.com/Web-Dev-for-Beginners/HTML-CSS-and-JavaScript-Projects/issues/19",
@@ -361,7 +361,7 @@ export const projects = [
     description:
       " ",
     image:
-      "https://lh4.googleusercontent.com/CB3aq1VRJwddCpoZxfwSZMXHQ3IopP5mjk77XyrBPi794ZjLz6AUHeHDL2XU-qJqkUrTRip78eS_t_tR-_5TZTDd9snnsR4oI-AdDQra-V1cNa9ioE6YCFXG1_z8pcWqrg=w1280",
+      "https://github.com/Trisha-tech/Documents/assets/55338588/d43b7429-a03b-4f1b-9645-87d9be6b05fd",
     tags: ["HTML", "CSS"],
     category: "training",
     github: "https://github.com/Trisha-tech/Industrial_Trainings/blob/master/Web-Development/Project%20Report%202022.pdf",
@@ -373,7 +373,7 @@ export const projects = [
     date: "July 2021 - Aug 2021",
     description:
       "",
-    image: "https://lh6.googleusercontent.com/0zkiW2WDmH6tmK6-vDywtNFzoCXsRc7oisXX0wIrAdpO5co4BNxX5hRbBMjRz02KqOL6onSjCyeFRGGQA6gFoNJWw4Lb3ZZDgTlXkNTxZYIYjnwkP3OxVkvl1fB2Ygaz8A=w1280",
+    image: "https://github.com/Trisha-tech/Documents/assets/55338588/39cf3444-72c3-44fd-bcd0-40a2a1e68d9f",
     tags: ["Numpy", "Keras", "Matplotlib", "SK Learn"],
     category: "training",
     github: "https://github.com/Trisha-tech/Industrial_Trainings/blob/master/Machine-Learning/INDUSTRIAL%20TRAINING%20REPORT.pdf",
@@ -386,7 +386,7 @@ export const projects = [
     description:
       "",
     image:
-      "https://lh4.googleusercontent.com/akQujlj1yFouwKEaUGHjTSXvNVGvN4MT2ARBAYfGZHjVIS4SX2LT5jQl10SisBNqJb7Gemmze3_TSbwPS_QffnlZxnxx2cLEEGhDVJyg1DuqlTTOyNYWU5nNjOof6Q9hLw=w1280",
+      "https://github.com/Trisha-tech/Documents/assets/55338588/f901b626-2284-448e-be71-7f95a193f8be",
     tags: ["ReactJS", "NodeJS", "MongoDB", "ExpresJS"],
     category: "training",
     github: "https://github.com/Trisha-tech/Industrial_Trainings/blob/master/MERN-STACK/trisha.jpg",
@@ -398,7 +398,7 @@ export const projects = [
     date: "Aug 2021 - Dec 2021",
     description:
       "Implemented Backend APIs (Login, Signup, Add Members/Events/Projects, Update Member Details, Get Members/Events/Projects, Delete Members/Events, Change Password, New Password) Handled connection with Frontend and Backend. ",
-    image: "https://lh4.googleusercontent.com/WH0T1jXn1cvdwQvOgCbQ1mY-9hWSfXBSMkUB0was3sd3MXXkDhieL9J1_sgAS5aBdNEmJhr09enqFNC6nSP0DGgtCR_WH8PQkdVLY2NQrh9eCUWQmgkfmq6LWhQ1JhVvHA=w1280",
+    image: "https://github.com/Trisha-tech/Documents/assets/55338588/bacdec25-10a8-4b21-845b-3bbf7bbcc82f",
     tags: ["HTML", "CSS", "ExpressJS", "MongoDB", "NodeJs", "React"],
     category: "web app",
     github: "https://github.com/Trisha-tech/pts-server",
@@ -410,7 +410,7 @@ export const projects = [
     date: "Nov 2019",
     description:
       " ",
-    image: "https://lh4.googleusercontent.com/SRXLcvdYP6-_A9msxXLEq5LRo9F9-c6qvCQJtJZIvj-jVTpBU9VB8rDuwczbMg4DP0o1iAwjaPapLlTP5UgGvknMIDk6EWoJ7kYYQM_hXs5nYHztZ6EoeBqW-EfyM9bSEw=w1280",
+    image: "https://github.com/Trisha-tech/Documents/assets/55338588/0ffce133-f0ed-4e3b-b45c-a12dccb86456",
     tags: ["HTML", "CSS"],
     category: "web app",
     github: "https://github.com/Trisha-tech/Article",
@@ -422,7 +422,7 @@ export const projects = [
     date: "Aug 2020 - Dec 2020",
     description:
       "WasteElite is a community which provide facilities to peoples for giving their wastes to appropriate place. We will provide a free service from registration to our site to collecting wastes. These collected wastes are further given to different industries (companies) depending on the recycling methods they use on that particular wastes. We also provide facility of making biogas plant at home which is helpful in producing methane gas. This step has been taken to encourage people towards making our earth clean and pollution free. ",
-    image: "https://lh5.googleusercontent.com/5NrN2EIQFW5dCTIit0_Vcc37H2v9FkRFalHRMxon9S0wA9r3YwYz5Hsg8QVnUpBOcUI0lON6QM5hdOOZk4-WcOWUYb7O5bW-CyMzhuhdC-PVkI1rSKeJAFo60BEVHtJPeA=w1280",
+    image: "https://github.com/Trisha-tech/Documents/assets/55338588/34c169a2-4fc3-4bee-9567-37338e266885",
     tags: ["HTML", "CSS", "ExpressJS", "MongoDB", "NodeJs", "React"],
     category: "web app",
     github: "https://github.com/Trisha-tech/waste_elite",
@@ -434,24 +434,13 @@ export const projects = [
     date: "July 2021 - Aug 2021",
     description:
       "Youtube advertisers pay content creators based on adviews and clicks for the goods and services being marketed. They want to estimate the adview based on other metrics like comments, likes etc. The problem statement is therefore to train various regression models and choose the best one to predict the number of adviews. The data needs to be refined and cleaned before feeding in the algorithms for better results. ",
-    image: "https://lh3.googleusercontent.com/Dsq96bIMwwONjf90WVIvh-xRu28K3hwsw1paMnRPUCh0dQq625EgUsViUCu4M_OR789KoOmYQK7-aMKqjGN3NHY_dbZR-uF2UNT-4ne5maRFdCfk4zlmnm1OLxq-PqNn=w1280",
+    image: "https://github.com/Trisha-tech/Documents/assets/55338588/e2bc2dea-b3c5-4c93-9bc8-8d5b2113a0c8",
     tags: ["Numpy", "Keras", "Matplotlib", "SK Learn"],
     category: "web app",
     github: "https://github.com/Trisha-tech/youtube_adview_prediction-M",
     webapp: "https://colab.research.google.com/drive/1VKg3ClJsBQEGuEjhA67BL08FWwWP1Hv7?usp=sharing",
   },
-  {
-    id: 8,
-    title: "Platform Tech Group Website",
-    date: "Aug 2021 - Dec 2021",
-    description:
-      "Implemented Backend APIs (Login, Signup, Add Members/Events/Projects, Update Member Details, Get Members/Events/Projects, Delete Members/Events, Change Password, New Password) Handled connection with Frontend and Backend. ",
-    image: "https://lh4.googleusercontent.com/WH0T1jXn1cvdwQvOgCbQ1mY-9hWSfXBSMkUB0was3sd3MXXkDhieL9J1_sgAS5aBdNEmJhr09enqFNC6nSP0DGgtCR_WH8PQkdVLY2NQrh9eCUWQmgkfmq6LWhQ1JhVvHA=w1280",
-    tags: ["HTML", "CSS", "ExpressJS", "MongoDB", "NodeJs", "React"],
-    category: "web app",
-    github: "https://github.com/Trisha-tech/pts-server",
-    webapp: "https://www.platformtechgroup.in/",
-  },
+  
 ];
 
 

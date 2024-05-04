@@ -14,7 +14,8 @@ const Navbar = () => {
       <NavbarContainer>
         <NavLogo to='/'>
           <a style={{ display: "flex", alignItems: "center", color: "white", marginBottom: '20;', cursor: 'pointer' }}>
-            <img width="150" height="50px" src="https://lh5.googleusercontent.com/ke613CbqDMTFWn7wbOtHFkcqlxjGTm2deNyr7yLfP731qGJE_u9N5Y4PAMNkFuUqXNXGuENblENDbmAClsCJCjw=w16383"></img>
+            <img width="150" height="50px" src="https://github.com/Trisha-tech/Documents/assets/55338588/2f8f9105-3f12-4730-8fff-2c3b1d731f41
+"></img>
           </a>
         </NavLogo>
         <MobileIcon>
