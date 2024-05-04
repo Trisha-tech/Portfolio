@@ -96,12 +96,13 @@ function Footer() {
           <NavLink href="#projects">Projects</NavLink>
           <NavLink href="#education">Education</NavLink>
         </Nav>
-        <SocialMediaIcons >
-          <SocialMediaIcon style={{ textDecoration: "none" }} href={Bio.leetcode} target="display">Leetcode</SocialMediaIcon>
-          <SocialMediaIcon style={{ textDecoration: "none" }} href={Bio.hackerrank} target="display">HackerRank</SocialMediaIcon>
-          <SocialMediaIcon style={{ textDecoration: "none" }} href={Bio.linkedin} target="display">Linkedin</SocialMediaIcon>
-          <SocialMediaIcon style={{ textDecoration: "none" }} href={Bio.medium} target="display">Medium</SocialMediaIcon>
-        </SocialMediaIcons>
+        <Nav>
+          <NavLink href={Bio.leetcode}>Leetcode</NavLink>
+          <NavLink href={Bio.hackerrank}>HackerRank</NavLink>
+          <NavLink href={Bio.linkedin}>Linkedin</NavLink>
+          <NavLink href={Bio.medium}>Medium</NavLink>
+        </Nav>
+       
         <Copyright>
           &copy; 2024 Trisha Sahu. All rights reserved.
         </Copyright>
