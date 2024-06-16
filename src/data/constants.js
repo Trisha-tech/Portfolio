@@ -440,6 +440,17 @@ export const projects = [
     github: "https://github.com/Trisha-tech/youtube_adview_prediction-M",
     webapp: "https://colab.research.google.com/drive/1VKg3ClJsBQEGuEjhA67BL08FWwWP1Hv7?usp=sharing",
   },
+    {
+    id: 12,
+    title: "Online Book Sales",
+    date: "July 2021 - Present",
+    description:"This project named Online Book Sales - Backend deals with developing an e-commerce website for Online Book Sale. It provides the user with a catalog of different books available for purchase in the store. In order to facilitate online purchase, a shopping cart is provided to the user. The system is implemented using a 3-tier approach, with a backend database, a middle tier of Node.js and Express.js, and a web browser as the front end client.",
+    image: "https://github.com/Trisha-tech/OnlineBookSales-Backend/assets/55338588/1a649afc-4c4a-44d3-b606-98e5e23288d9",
+    tags: ["HTML", "CSS", "ExpressJS", "MongoDB", "NodeJs", "React"],
+    category: "web app",
+    github: "https://github.com/Trisha-tech/OnlineBookSales",
+    webapp: "https://online-book-sales-backend.onrender.com/",
+  },
   
 ];
 
